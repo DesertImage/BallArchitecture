@@ -1,0 +1,1 @@
+﻿namespace DesertImage{    public interface IPoolable    {        void onCreate();        void returnToPool();    }}

@@ -1,0 +1,1 @@
+﻿using UnityEngine;namespace DesertImage{    public abstract class Factory : ScriptableObject, IFactory    {    }}
