@@ -23,7 +23,7 @@ namespace BallArchitectureApp.Behaviours
         {
             _dataHealth.Health.Value -= arguments.Value;
             
-            if (_dataHealth.Health.Value > 0) return;
+            if (_dataHealth.Health.Value > 0.2f) return;
             
             Subject.send(new DieEvent());
         }
