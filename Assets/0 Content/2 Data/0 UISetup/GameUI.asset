@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0930d15162c745b8888fbf294b7a2aba, type: 3}
+  m_Name: GameUI
+  m_EditorClassIdentifier: 
+  uiManagerPrefab: {fileID: 8120455914173097725, guid: c0204a0c1c25d4287a4e9752af42b810,
+    type: 3}
+  maket: {fileID: 0}
+  screens:
+  - {fileID: 5050476661537591065, guid: a7074e34c858b4957846c7aeca4cc297, type: 3}
+  debugScreens: []

@@ -1,1 +1,0 @@
-﻿using DesertImage.Subjects;namespace DesertImage.Pools{    public class SubjectsPool : Pool<ISubject>    {        protected override ISubject CreateInstance(ISubject objInstance)        {            return new Subjects.Subject();        }    }}

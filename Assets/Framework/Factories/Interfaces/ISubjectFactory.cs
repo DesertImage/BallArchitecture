@@ -1,1 +1,0 @@
-﻿using DesertImage.Subjects;namespace DesertImage{    public interface ISubjectFactory    {        void link(ISubject subject);    }}

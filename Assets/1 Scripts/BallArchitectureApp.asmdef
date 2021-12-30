@@ -1,0 +1,19 @@
+{
+    "name": "BallArchitectureApp",
+    "rootNamespace": "",
+    "references": [
+        "Framework",
+        "UniRx",
+        "ThirdPartyStuff",
+        "UIFramework"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
