@@ -1,5 +1,5 @@
 # BallArchitecture
-This is tutorial architecture using mix of Data Oriented and Component System approaches
+This is an example of architecture using mix of Data Oriented and Component System approaches
 
 ## Core
 Initing global components, managers and systems
